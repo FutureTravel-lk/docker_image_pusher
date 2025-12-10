@@ -2,6 +2,7 @@ nginx
 redis
 postgres:18
 mysql
+ollama/ollama
 stalwartlabs/stalwart
 namshi/smtp
 #支持私库
