@@ -2,6 +2,13 @@ nginx
 redis
 postgres:18
 mysql
+jenkins:2.60.3
+minio/minio
+minio/mc
+nacos
+elasticsearch:9.2.4
+xuxueli/xxl-job-admin:3.3.2
+apache/rocketmq
 ollama/ollama
 apache/kafka
 stalwartlabs/stalwart
