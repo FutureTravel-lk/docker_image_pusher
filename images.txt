@@ -2,7 +2,7 @@ nginx
 redis
 postgres:18
 mysql
-jenkins:2.60.3
+jenkins/jenkins:lts
 minio/minio
 minio/mc
 nacos/nacos-server
