@@ -7,7 +7,7 @@ jenkins/jenkins:lts
 minio/minio
 minio/mc
 nacos/nacos-server
-elasticsearch:9.2.4
+elasticsearch:9.3.1
 xuxueli/xxl-job-admin:3.3.2
 apache/rocketmq
 ollama/ollama
