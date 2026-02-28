@@ -1,7 +1,7 @@
 nginx
 redis
-postgres:18
-pgvector/pgvector:0.8.1-pg18-trixie
+postgres
+pgvector/pgvector:0.8.2-pg18-trixie
 mysql
 jenkins/jenkins:lts
 minio/minio
@@ -12,7 +12,6 @@ xuxueli/xxl-job-admin:3.3.2
 apache/rocketmq
 ollama/ollama
 apache/kafka
-uozi/nginx-ui:latest
 stalwartlabs/stalwart
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
