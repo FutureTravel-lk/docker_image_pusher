@@ -12,7 +12,8 @@ xuxueli/xxl-job-admin:3.3.2
 apache/rocketmq
 ollama/ollama
 apache/kafka
-stalwartlabs/stalwart
+ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda13
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
