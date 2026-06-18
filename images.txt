@@ -10,8 +10,8 @@ nacos/nacos-server
 elasticsearch:9.3.2
 xuxueli/xxl-job-admin:3.3.2
 apache/rocketmq
-ollama/ollama
 apache/kafka
+vllm/vllm-openai
 ghcr.io/ggml-org/llama.cpp:server-cuda
 ghcr.io/ggml-org/llama.cpp:server-cuda13
 #支持私库
