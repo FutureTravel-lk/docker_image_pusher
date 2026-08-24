@@ -1,7 +1,7 @@
 # nginx
 # redis
-# postgres
-# pgvector/pgvector:0.8.2-pg18-trixie
+postgres
+pgvector/pgvector:0.8.6-pg18-trixie
 # mysql
 # jenkins/jenkins:lts
 # minio/minio
@@ -13,7 +13,13 @@
 # apache/kafka
 # vllm/vllm-openai
 # ghcr.io/ggml-org/llama.cpp:server-cuda13
-qdrant/qdrant
+# qdrant/qdrant
+
+# milvus 所需所有镜像
+minio/minio
+minio/mc
+milvusdb/milvus:v3.0.0
+quay.io/coreos/etcd:v3.5.25
 
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
