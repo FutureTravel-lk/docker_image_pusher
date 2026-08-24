@@ -14,7 +14,6 @@ pgvector/pgvector:0.8.6-pg18-trixie
 # vllm/vllm-openai
 # ghcr.io/ggml-org/llama.cpp:server-cuda13
 # qdrant/qdrant
-
 # milvus 所需所有镜像
 minio/minio
 minio/mc
