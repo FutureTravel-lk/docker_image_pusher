@@ -10,11 +10,11 @@
 # elasticsearch:9.3.2
 # xuxueli/xxl-job-admin:3.3.2
 # apache/rocketmq
-apache/kafka
+# apache/kafka
 # vllm/vllm-openai
 # ghcr.io/ggml-org/llama.cpp:server-cuda13
 # qdrant/qdrant
-rabbitmq:management
+rabbitmq:4.2-management
 
 # milvus 所需所有镜像
 # minio/minio
