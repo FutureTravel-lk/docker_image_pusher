@@ -4,7 +4,7 @@ postgres
 pgvector/pgvector:0.8.7-pg18-trixie
 mysql
 jenkins/jenkins:lts
-minio/minio
+minio/minio:RELEASE.2025-10-15T17-29-55Z
 minio/mc
 nacos/nacos-server
 elasticsearch:9.5.5
