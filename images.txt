@@ -3,7 +3,7 @@ redis
 postgres
 pgvector/pgvector:0.8.7-pg18-trixie
 mysql
-jenkins/jenkins:lts
+jenkins/jenkins
 # minio/minio
 # minio/mc
 nacos/nacos-server
