@@ -2,7 +2,7 @@ nginx
 redis
 postgres
 pgvector/pgvector:0.8.7-pg18-trixie
-mysql
+# mysql
 jenkins/jenkins
 # minio/minio
 # minio/mc
