@@ -1,24 +1,27 @@
-# nginx
-# redis
-# postgres
-# pgvector/pgvector:0.8.6-pg18-trixie
-# mysql
-# jenkins/jenkins:lts
-# minio/minio
-# minio/mc
-# nacos/nacos-server
-# elasticsearch:9.3.2
-# xuxueli/xxl-job-admin:3.3.2
-# apache/rocketmq
-# apache/kafka
-# vllm/vllm-openai
+nginx
+redis
+postgres
+pgvector/pgvector:0.8.7-pg18-trixie
+mysql
+jenkins/jenkins:lts
+minio/minio
+minio/mc
+nacos/nacos-server
+elasticsearch:9.5.5
+xuxueli/xxl-job-admin:3.5.0
+apache/rocketmq
+apache/kafka
+vllm/vllm-openai
 # ghcr.io/ggml-org/llama.cpp:server-cuda13
-# qdrant/qdrant
-rabbitmq:4.2-management
+qdrant/qdrant
+rabbitmq:4.3.7-management
+rustfs/rustfs
+rustfs/rc
 
 # milvus 所需所有镜像
 # minio/minio
 # minio/mc
+zilliz/attu
 # milvusdb/milvus:v3.0.0
 # quay.io/coreos/etcd:v3.5.25
 
